@@ -28,8 +28,8 @@ nav_order: 1
 
 ## Installation
 
-1. Download the latest release tar [here](https://github.com/nprint/pcapml/releases/)
-2. Extract the tar `tar -xvf [pcapml-version.tar.gz]`
+1. Download the latest release tar [here](https://github.com/nprint/nprint/releases/)
+2. Extract the tar `tar -xvf [nprint-version.tar.gz]`
 3. `cd [pcapml-directory]`
 
 2. `./configure && make && sudo make install`
