@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 show_downloads: false
 title: The nPrint Project
-description: Improving Network Traffic Machine Learning #Standardized, Portable Network Traffic Labeling for ML Tasks
+description: Generalizable and Reproducable Network Traffic Analysis
 google_analytics: UA-174968057-1
 
 search_enabled: true
