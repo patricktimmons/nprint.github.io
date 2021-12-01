@@ -34,7 +34,7 @@ nprint -i -W test.npt -f icmp
 nprint -P test.pcap -W out.npt -p 20 
 ```
 
-* Take nPrint file and reverse it into a PCAP
+* Take a nPrint file and reverse it into a PCAP
 
 ```
 nprint -N test.npt -W test.pcap
