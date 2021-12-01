@@ -26,7 +26,7 @@ nav_order: 1
 
 `brew install argp-standalone`
 
-## Installation
+## Install
 
 1. Download the latest release tar [here](https://github.com/nprint/nprint/releases/)
 2. Extract the tar `tar -xvf [nprint-version.tar.gz]`
