@@ -8,7 +8,7 @@ permalink: /
 
 # The nPrint Project
 
-The nPrint project is a collection of open source software for network traffic analysis tasks.
+The nPrint project is a collection of open source software for network traffic analysis tasks:
 
 - nPrint provides a generic representation for machine learning based network traffic analysis
 - nPrintML combines nPrint and automated machine learning techniques for fully automated traffic analysis pipelines
