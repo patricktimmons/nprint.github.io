@@ -8,7 +8,7 @@ nav_order: 2
 
 # Usage
 
-nPrint can be used in a wide variety of ways. A full list of options can be found by running `nprint --help`.
+nPrint can be used in a wide variety of ways. A full (and up to date) list of options can be found by running `nprint --help`.
 
 * Collect traffic in real time and print IPv4 / TCP nPrints to stdout
 
