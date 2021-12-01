@@ -36,7 +36,7 @@ That said, installation of this command via a tool such as [pipx](https://pipxpr
 
 ### Post-installation
 
-nprintML depends on the nPrint command, which may be installed separately, (with reference to the [nPrint documentation](https://github.com/nprint/nprint/wiki/2.-Installation)).
+nprintML depends on the nPrint command, which may be installed separately.
 
 For quick-and-easy satisfaction of this requirement, nprintML supplies the bootstrapping command `nprint-install`, which is made available to your environment with nprintML installed. This command will inspect its execution environment and attempt to retrieve, compile and install nPrint with the most appropriate defaults:
 
