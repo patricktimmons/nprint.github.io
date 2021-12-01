@@ -30,6 +30,6 @@ nav_order: 1
 
 1. Download the latest release tar [here](https://github.com/nprint/nprint/releases/)
 2. Extract the tar `tar -xvf [nprint-version.tar.gz]`
-3. `cd [pcapml-directory]`
+3. `cd [nprint-directory]`
 
 2. `./configure && make && sudo make install`
