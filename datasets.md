@@ -1,5 +1,5 @@
 ---
-title: Datasets
+title: datasets
 nav_order: 5
 # parent: The nPrint Project
 has_children: false
