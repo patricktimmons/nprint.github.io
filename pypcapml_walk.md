@@ -7,9 +7,11 @@ nav_order: 2
 ---
 
 
-# Walkthrough
+# Usage
 
-Below is an example of loading and iterating over the `pcapml` encoded DTLS dataset.
+`pypcapml` exposes a simple iterator over a sorted `pcapml` encoded dataset. The iterator can return raw bytes, `scapy` packets or `dpkt` packets. The iterator contains all of the information about a single traffic sample, including the sampleID, the metadata associated with the traffic, the raw packet buffers, and the timestamps associated with each raw packet. 
+
+Below is a full example of loading and iterating over the `pcapml` encoded DTLS dataset.
 
 ```
 import sys
