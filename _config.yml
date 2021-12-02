@@ -4,7 +4,7 @@ title: The nPrint Project
 description: Generalizable and Reproducable Network Traffic Analysis
 google_analytics: UA-174968057-1
 
-search_enabled: true
+search_enabled: false
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
@@ -36,6 +36,8 @@ heading_anchors: true
 aux_links:
   "nPrint on GitHub":
     - "//github.com/nprint/nprint"
+  "nPrintML on GitHub":
+    - "//github.com/nprint/nprintML"
   "pcapml on GitHub":
     - "//github.com/nprint/pcapml"
 
