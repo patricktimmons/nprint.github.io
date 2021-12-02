@@ -1,5 +1,5 @@
 ---
-title: Example Usage
+title: Usage
 has_children: false
 parent: nPrint
 grand_parent: The nPrint Project
