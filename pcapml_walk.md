@@ -1,5 +1,5 @@
 ---
-title: Example Walkthrough
+title: Usage
 has_children: false
 parent: pcapml
 grand_parent: The nPrint Project
