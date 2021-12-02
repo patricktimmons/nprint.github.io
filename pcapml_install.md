@@ -1,5 +1,5 @@
 ---
-title: Installation Guide
+title: Installation
 has_children: false
 parent: pcapml
 grand_parent: The nPrint Project
