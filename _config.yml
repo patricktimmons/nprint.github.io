@@ -30,6 +30,9 @@ search:
   # Supports true or false (default)
   button: false
 
+color_scheme: nprint
+
+
 # Enable or disable heading anchors
 heading_anchors: true
 
