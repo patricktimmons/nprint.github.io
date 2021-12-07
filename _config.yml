@@ -3,7 +3,7 @@ show_downloads: false
 title: The nPrint Project
 description: Generalizable and Reproducable ML-based Traffic Analysis
 google_analytics: UA-174968057-1
-logo: "logo.png"
+# logo: "logo.png"
 
 search_enabled: false
 search:
