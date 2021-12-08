@@ -6,7 +6,7 @@ has_children: false
 permalink: /
 ---
 
-# The nPrint Project
+<!-- # The nPrint Project -->
 
 The nPrint project is a collection of open source software for network traffic analysis tasks:
 
