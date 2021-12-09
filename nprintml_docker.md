@@ -1,7 +1,7 @@
 ---
 title: Docker Demo Image
 has_children: false
-parent: nPrintML
+parent: nPrintml
 grand_parent: The nPrint Project
 nav_order: 3
 ---
