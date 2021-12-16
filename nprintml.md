@@ -1,5 +1,5 @@
 ---
-title: nPrintml
+title: nPrintML
 # parent: The nPrint Project
 has_children: true
 nav_order: 2
