@@ -44,7 +44,7 @@ aux_links:
     - "//github.com/nprint/nprintml"
   "pcapML on GitHub":
     - "//github.com/nprint/pcapml"
-  "pcapml_FE on GitHub:
+  "pcapML_FE on GitHub":
     - "//github.com/nprint/pcapml_fe"
 
 # Makes Aux links open in a new tab. Default is false
