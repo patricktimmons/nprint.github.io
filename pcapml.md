@@ -1,6 +1,6 @@
 ---
 layout: default
-title: pcapml
+title: pcapML
 nav_order: 3
 # parent: The nPrint Project
 has_children: true
