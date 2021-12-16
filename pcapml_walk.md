@@ -1,7 +1,7 @@
 ---
 title: Usage
 has_children: false
-parent: pcapml
+parent: pcapML
 grand_parent: The nPrint Project
 nav_order: 2
 ---
