@@ -14,6 +14,7 @@ nav_order: 2
 Below is a full example of loading and iterating over the `pcapml` encoded DTLS dataset [available for download](https://nprint.github.io/datasets.html)
 
 ```
+import argparse
 import pcapml_fe
 from scapy.all import *
 
@@ -46,8 +47,7 @@ def extract_info(traffic_sample):
 
     for pkt in traffic_sample.packets:
         print(pkt.ts, pkt.raw_bytes)
-        # pkt = scapy.packet.Packet(pkt.raw_bytes)#.getlayer(Raw)
+        # pkt = scapy.packet.Packet(pkt.raw_bytes).getlayer(Raw)
         # print(pkt.type)
         # Extract features
-        pass
 ```
