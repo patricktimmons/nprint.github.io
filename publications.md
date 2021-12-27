@@ -6,9 +6,16 @@ has_children: false
 ---
 
 * New Directions In Automated Traffic Analysis
-   - [ACM CCS 2021](https://dl.acm.org/doi/abs/10.1145/3460120.3484758)
-   - [ArXiv](https://arxiv.org/pdf/2008.02695.pdf)
-   - [Short Video](short.mp4)
+   - Paper
+      - [ACM CCS 2021](https://dl.acm.org/doi/abs/10.1145/3460120.3484758)
+      - [ArXiv](https://arxiv.org/pdf/2008.02695.pdf)
+   - Presentations
+      - ACM CCS 2021
+         - [Short Video](short.mp4)
+         - [Short Slides](short-slides.pdf)
+         - [Long Slides](long-slides.pdf)
+      - NANOG
+         - [Video](https://www.youtube.com/watch?v=7iUfx2IisQ8)
    - BibTex Citation
       ```
       @inproceedings{10.1145/3460120.3484758,
