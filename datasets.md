@@ -1,6 +1,6 @@
 ---
 layout: default
-title: datasets
+title: Datasets
 nav_order: 5
 # parent: The nPrint Project
 has_children: false
