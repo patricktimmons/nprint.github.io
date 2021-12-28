@@ -1,4 +1,5 @@
 ---
+layout: default
 title: nPrintML
 # parent: The nPrint Project
 has_children: true

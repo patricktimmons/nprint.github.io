@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Docker Demo Image
 has_children: false
 parent: nPrintML

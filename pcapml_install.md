@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Installation
 has_children: false
 parent: pcapML

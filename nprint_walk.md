@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Usage
 has_children: false
 parent: nPrint
