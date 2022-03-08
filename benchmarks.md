@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The nPrint Benchmarks
+title: pcapML Benchmarks
 nav_order: 5
 permalink: /benchmarks
 ---
