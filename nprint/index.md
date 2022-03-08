@@ -1,8 +1,7 @@
 ---
 layout: default
 title: nPrint
-nav_order: 1
-# parent: The nPrint Project
+nav_order: 2
 has_children: true
 ---
 
