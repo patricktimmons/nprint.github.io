@@ -8,7 +8,9 @@ permalink: /
 
 <!-- # The nPrint Project -->
 
-The nPrint project is a collection of open source software and benchmarks for network traffic analysis:
+The nPrint project is a collection of open source software and benchmarks for network traffic analysis that aim to replace the built-to-task approach currently taken when examining traffic analysis tasks.
+
+![nprint_project](nprint_project.png)
 
 - `nprint` provides a generic representation for machine learning based network traffic analysis
 - `nprintml` combines nPrint and automated machine learning techniques for fully automated traffic analysis pipelines
