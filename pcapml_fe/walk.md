@@ -17,7 +17,7 @@ Below is a full example ([source available here](https://github.com/nprint/pcapm
 *Note: The third import provides helpers that can read raw bytes into dpkt or
 scapy Ethernet frames (`dpkt_readEther` and `scapy_readEther`, respectively).
 The helpers are not strictly necessary to parse pcapML files.*
-```
+```python
 import argparse
 import pcapml_fe
 from pcapml_fe_helpers import *
