@@ -11,10 +11,10 @@ has_children: false
       - [ArXiv](https://arxiv.org/pdf/2008.02695.pdf)
    - Presentations
       - ACM CCS 2021
-         - [Short Video](short.mp4)
-         - [Short Slides](short-slides.pdf)
-         - [Long Video](long-video.mp4)
-         - [Long Slides](long-slides.pdf)
+         - [Short Video](media/short.mp4)
+         - [Short Slides](media/short-slides.pdf)
+         - [Long Video](media/long-video.mp4)
+         - [Long Slides](https://drive.google.com/file/d/1TfCX6V8slET0CYGWM5iBuMW9Xj3kzHau/view?usp=sharing)
       - NANOG
          - [Video](https://www.youtube.com/watch?v=7iUfx2IisQ8)
    - BibTex Citation
