@@ -10,7 +10,7 @@ has_children: true
 
 nPrint is a standard data representation for network traffic created to be directly usable with machine learning algorithms, replacing feature engineering for a wide array of traffic analysis problems. The original nPrint paper can be found [here](https://arxiv.org/pdf/2008.02695.pdf)
 
-![nPrint](nprint/nprint.png)
+![nPrint](nprint.png)
 
 ## Implemented Protocols
 
