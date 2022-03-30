@@ -19,20 +19,34 @@ has_children: false
          - [Video](https://www.youtube.com/watch?v=7iUfx2IisQ8)
    - BibTex Citation
       ```
-      @inproceedings{10.1145/3460120.3484758,
-      author = {Holland, Jordan and Schmitt, Paul and Feamster, Nick and Mittal, Prateek},
-      title = {New Directions in Automated Traffic Analysis},
-      year = {2021},
-      isbn = {9781450384544},
-      publisher = {Association for Computing Machinery},
-      address = {New York, NY, USA},
-      url = {https://doi.org/10.1145/3460120.3484758},
-      doi = {10.1145/3460120.3484758},
-      booktitle = {Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
-      pages = {3366–3383},
-      numpages = {18},
-      keywords = {automated traffic analysis, machine learning on network traffic, network traffic analysis},
-      location = {Virtual Event, Republic of Korea},
-      series = {CCS '21}
+      {
+        @inproceedings{holland2021new,
+        author = {Holland, Jordan and Schmitt, Paul and Feamster, Nick and Mittal, Prateek},
+        title = {New Directions in Automated Traffic Analysis},
+        year = {2021},
+        isbn = {9781450384544},
+        publisher = {Association for Computing Machinery},
+        address = {New York, NY, USA},
+        url = {https://doi.org/10.1145/3460120.3484758},
+        doi = {10.1145/3460120.3484758},
+        booktitle = {Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+        pages = {3366–3383},
+        numpages = {18},
+        keywords = {automated traffic analysis, machine learning on network traffic, network traffic analysis},
+        location = {Virtual Event, Republic of Korea},
+        series = {CCS '21}
       }
       ```
+* Towards Reproducible Network Traffic Analysis
+  - Paper
+    - [ArXiv](https://arxiv.org/pdf/2203.12410.pdf)
+  - BibTex Citation
+     ```
+     {
+       @article{holland2022towards,
+       title={Towards Reproducible Network Traffic Analysis},
+       author={Holland, Jordan and Schmitt, Paul and Mittal, Prateek and Feamster, Nick},
+       journal={arXiv preprint arXiv:2203.12410},
+       year={2022}
+     }
+
