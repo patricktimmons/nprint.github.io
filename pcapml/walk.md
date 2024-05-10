@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Overview
 
-`pcpaml` standardizes network traffic analysis tasks at the _dataset level_. Rather than focus on a standardized methodology, feature set, or library for combining traffic traces and metadata (such as labels for machine learning tasks), `pcapml` provides a system for directly coupling raw traffic traces and metadata by using the Next Generation PCAP (`pcpang`) format. `pcapng` files can still be read by libraries such as `libpcap`, and inspected using tools such as `tcpdump` or `tshark`. Whereas a `pcap` represents a linked-list of packets, a `pcapng` represents a linked list of _blocks_, which we can use to directly couple metadata and raw packets.
+`pcapml` standardizes network traffic analysis tasks at the _dataset level_. Rather than focus on a standardized methodology, feature set, or library for combining traffic traces and metadata (such as labels for machine learning tasks), `pcapml` provides a system for directly coupling raw traffic traces and metadata by using the Next Generation PCAP (`pcapng`) format. `pcapng` files can still be read by libraries such as `libpcap`, and inspected using tools such as `tcpdump` or `tshark`. Whereas a `pcap` represents a linked-list of packets, a `pcapng` represents a linked list of _blocks_, which we can use to directly couple metadata and raw packets.
 
 ### Sample IDs
 
